@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/updated-exercise-app/static/css/main.69eda509.chunk.css",
+    "main.js": "/updated-exercise-app/static/js/main.89e0cc7e.chunk.js",
+    "main.js.map": "/updated-exercise-app/static/js/main.89e0cc7e.chunk.js.map",
+    "runtime-main.js": "/updated-exercise-app/static/js/runtime-main.a8296e1a.js",
+    "runtime-main.js.map": "/updated-exercise-app/static/js/runtime-main.a8296e1a.js.map",
+    "static/js/2.d55b193b.chunk.js": "/updated-exercise-app/static/js/2.d55b193b.chunk.js",
+    "static/js/2.d55b193b.chunk.js.map": "/updated-exercise-app/static/js/2.d55b193b.chunk.js.map",
+    "static/js/3.a6d72d1a.chunk.js": "/updated-exercise-app/static/js/3.a6d72d1a.chunk.js",
+    "static/js/3.a6d72d1a.chunk.js.map": "/updated-exercise-app/static/js/3.a6d72d1a.chunk.js.map",
+    "index.html": "/updated-exercise-app/index.html",
+    "precache-manifest.d90936794f108fd1553740a397fb6104.js": "/updated-exercise-app/precache-manifest.d90936794f108fd1553740a397fb6104.js",
+    "service-worker.js": "/updated-exercise-app/service-worker.js",
+    "static/css/main.69eda509.chunk.css.map": "/updated-exercise-app/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.d55b193b.chunk.js.LICENSE.txt": "/updated-exercise-app/static/js/2.d55b193b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8296e1a.js",
+    "static/js/2.d55b193b.chunk.js",
+    "static/css/main.69eda509.chunk.css",
+    "static/js/main.89e0cc7e.chunk.js"
+  ]
+}
